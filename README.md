@@ -1,6 +1,6 @@
 # README
 
-This file taken from my Arch Linux Installation
+This file taken from my Arch Linux Installation.
 
 ## Dependency
 
@@ -9,9 +9,12 @@ This file taken from my Arch Linux Installation
 - redshift
 - xterm
 - feh
+- Random folder (In here I use : /home/suki/Menma\_dump)
 
 ## Pictures
 
+- 2 windows xterm
 ![xterm](/pictures.png)
+- Some random wallpaper from Anohana fanbase
 ![desktop](/pictures-2.png)
 
