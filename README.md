@@ -2,7 +2,7 @@
 
 This file taken from my Arch Linux Installation
 
-#Dependency
+## Dependency
 
 - i3
 - i3status
@@ -10,8 +10,8 @@ This file taken from my Arch Linux Installation
 - xterm
 - feh
 
-#Pictures
+## Pictures
 
-![xterm](/picture.png)
-![desktop](/pictures.png)
+![xterm](/pictures.png)
+![desktop](/pictures-2.png)
 
