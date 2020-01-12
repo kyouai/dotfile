@@ -10,6 +10,7 @@ This file taken from my Arch Linux Installation.
 - xterm
 - feh
 - Random folder (In here I use : /home/suki/Menma\_dump)
+- ~/bin folder (If you need it, XD)
 
 ## Pictures
 
