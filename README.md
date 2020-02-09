@@ -6,7 +6,7 @@ This file taken from my Arch Linux Installation.
 
 - i3
 - i3status
-- redshift
+- redshift (manual edit for your location & configuration)
 - xterm
 - feh
 - Random folder (In here I use : /home/suki/Menma\_dump)
